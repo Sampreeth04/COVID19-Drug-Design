@@ -1,0 +1,29 @@
+,NAME,Best_solvation_energy,Second_best_solvation_energy,Third_best_solvation_energy,Weighted_average
+0,Acetic acid,0,0,0,0.0
+1,Heptane,0,0,0,0.0
+2,Acetone,0,0,0,0.0
+3,Isobutyl acetate,0,144,0,0.3
+4,Anisole,0,0,0,0.0
+5,Isopropyl acetate,0,0,144,0.2
+6,1-Butanol,0,0,0,0.0
+7,Methyl acetate,0,0,0,0.0
+8,2-Butanol,0,0,0,0.0
+9,3-Methyl-1-butanol,0,0,0,0.0
+10,Butyl acetate,144,0,0,0.5
+11,Methylethyl ketone,0,0,0,0.0
+12,tert-Butylmethyl ether,0,0,0,0.0
+13,2-Methyl-1-propanol,0,0,0,0.0
+14,Dimethyl sulfoxide,0,0,0,0.0
+15,Pentane,0,0,0,0.0
+16,Ethanol,0,0,0,0.0
+17,1-Pentanol,0,0,0,0.0
+18,Ethyl acetate,0,0,0,0.0
+19,1-Propanol,0,0,0,0.0
+20,Ethyl ether,0,0,0,0.0
+21,2-Propanol,0,0,0,0.0
+22,Ethyl formate,0,0,0,0.0
+23,Propyl acetate,0,0,0,0.0
+24,Formic acid,0,0,0,0.0
+25,Triethylamin,0,0,0,0.0
+26,Water,0,0,0,0.0
+27,"N,N-Dimethylformamide",0,0,0,0.0
