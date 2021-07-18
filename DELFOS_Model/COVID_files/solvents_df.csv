@@ -1,0 +1,29 @@
+NAME,CID,SMILES
+Acetic acid,176,CC(=O)O
+Heptane,8900,CCCCCCC
+Acetone,180,CC(=O)C
+Isobutyl acetate,8038,CC(C)COC(=O)C
+Anisole,7519,COC1=CC=CC=C1
+Isopropyl acetate,7915,CC(C)OC(=O)C
+1-Butanol,263,CCCCO
+Methyl acetate,6584,CC(=O)OC
+2-Butanol,6568,CCC(C)O
+3-Methyl-1-butanol,31260,CC(C)CCO
+Butyl acetate,3127,CC(CC1=CC=C(C=C1)Cl)N
+Methylethyl ketone,6569,CCC(=O)C
+tert-Butylmethyl ether,15413,CC(C)(C)OC
+2-Methyl-1-propanol,6560,CC(C)CO
+Dimethyl sulfoxide,679,CS(=O)C
+Pentane,8003,CCCCC
+Ethanol,702,CCO
+1-Pentanol,6276,CCCCCO
+Ethyl acetate,8857,CCOC(=O)C
+1-Propanol,1031,CCCO
+Ethyl ether,3283,CCOCC
+2-Propanol,3776,CC(C)O
+Ethyl formate,8025,CCOC=O
+Propyl acetate,7997,CCCOC(=O)C
+Formic acid,284,C(=O)O
+Triethylamin,8471,CCN(CC)CC
+Water,962,O
+"N,N-Dimethylformamide",6228,CN(C)C=O
